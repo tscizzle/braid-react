@@ -1,0 +1,3 @@
+- include socket
+- make mobile responsive
+  - use media things in scss, imitating how i did it in ModSewing
